@@ -181,6 +181,8 @@ user_data_fields = [
 	}
 ]
 
+app_include_css = "/assets/implementation/css/red_background.css"
+
 # Authentication and authorization
 # --------------------------------
 
