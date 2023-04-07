@@ -9,7 +9,9 @@
   "activate_section",
   "enable_color",
   "color_setting_section",
-  "color_picker"
+  "navbar_color_picker",
+  "column_break_5",
+  "background_color_picker"
  ],
  "fields": [
   {
@@ -29,15 +31,24 @@
    "label": "Color Setting"
   },
   {
-   "fieldname": "color_picker",
+   "fieldname": "navbar_color_picker",
    "fieldtype": "Color",
-   "label": "Color Picker"
+   "label": "Navbar Color Picker"
+  },
+  {
+   "fieldname": "column_break_5",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "background_color_picker",
+   "fieldtype": "Color",
+   "label": "Background Color Picker"
   }
  ],
  "index_web_pages_for_search": 1,
  "issingle": 1,
  "links": [],
- "modified": "2023-04-07 05:11:32.250663",
+ "modified": "2023-04-07 22:18:56.836725",
  "modified_by": "Administrator",
  "module": "Implementation",
  "name": "Implementation Settings",
