@@ -5,4 +5,7 @@ frappe.ui.form.on('Implementation Settings', {
 	// refresh: function(frm) {
 
 	// }
+	after_save: function(frm) {
+		frappe.ui.changeBackgound()
+	}
 });

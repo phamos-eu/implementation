@@ -181,7 +181,8 @@ user_data_fields = [
 	}
 ]
 
-app_include_css = "/assets/implementation/css/red_background.css"
+# app_include_css = "/assets/implementation/css/red_background.css"
+app_include_js = "/assets/implementation/js/implementation_custom_desk.js"
 
 # Authentication and authorization
 # --------------------------------
